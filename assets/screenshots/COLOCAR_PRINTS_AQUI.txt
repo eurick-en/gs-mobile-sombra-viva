@@ -1,0 +1,1 @@
+Depois que o app rodar, coloque prints reais das telas Home, Cuidados, Locais, Relatos e Novo Relato nesta pasta.

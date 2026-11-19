@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SombraViva",
+    "slug": "climacidadao",
+    "scheme": "climacidadao",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fiap.climacidadao"
+    },
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
